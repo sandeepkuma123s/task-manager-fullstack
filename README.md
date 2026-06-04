@@ -156,20 +156,18 @@ PORT=5000
 
 ### Login Page
 
-(Add Screenshot Here)
+<img width="1872" height="911" alt="image" src="https://github.com/user-attachments/assets/22659d16-d94c-4db8-999d-f28822a5b13d" />
+
 
 ### Register Page
+![Uploading image.png…]()
 
-(Add Screenshot Here)
+
+DASHBOARD IMAGE
 
 ### <img width="1881" height="908" alt="image" src="https://github.com/user-attachments/assets/b6a5f59a-cc77-4957-a498-f571db35b4e4" />
 
 
-(Add Screenshot Here)
-
-### Task Management
-
-(Add Screenshot Here)
 
 ---
 
