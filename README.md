@@ -162,7 +162,8 @@ PORT=5000
 
 (Add Screenshot Here)
 
-### Dashboard
+### <img width="1881" height="908" alt="image" src="https://github.com/user-attachments/assets/b6a5f59a-cc77-4957-a498-f571db35b4e4" />
+
 
 (Add Screenshot Here)
 
