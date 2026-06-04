@@ -154,13 +154,13 @@ PORT=5000
 
 ## 📸 Screenshots
 
-### Login Page
+### Register Page
 
 <img width="1872" height="911" alt="image" src="https://github.com/user-attachments/assets/22659d16-d94c-4db8-999d-f28822a5b13d" />
 
 
-### Register Page
-![Uploading image.png…]()
+### LOGIN IMAGE
+<img width="1047" height="908" alt="image" src="https://github.com/user-attachments/assets/d2ffe539-d054-4f27-8503-ad80b8cc1607" />
 
 
 DASHBOARD IMAGE
