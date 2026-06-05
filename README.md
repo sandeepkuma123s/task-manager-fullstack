@@ -197,6 +197,3 @@ https://github.com/sandeepkuma123s
 
 ---
 
-## 📄 License
-
-This project is developed for learning, portfolio building, and internship purposes.
